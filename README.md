@@ -7,27 +7,12 @@ This Pokédex app allows you check out the original 150 Pokémon with their spri
 ## Table of Contents:
 
 -Live Website
+-Features
+-Getting Started
 -Technologies Used
+-Contributing
 -License
 -Acknowledgements
 
 ## Live Website:
-
-Check out the live website [here!](https://mrfukui.github.io/Pokedex-Fukui/)
-
-## Technologies Used:
-
--HTML5
--CSS3
--Javascript
--Bootstrap
--PokeAPI
-
-## License:
-
-This app is licensed under the GNU License. See [LICENSE.](LICENSE)
-
-## Acknowledgments:
-
--CareerFoundry for guidance in building this app.
--The pokeAPI provided by the pokeAPI website [here.](https://pokeapi.co/)
+Check out the live website [here!]()
