@@ -7,6 +7,7 @@ This Pokédex app allows you check out the original 150 Pokémon with their spri
 ## Table of Contents:
 
 - [Live Website](#live-website)
+- [Screenshot of Application](#screenshot-of-application)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Acknowledgements](#acknowledgments)
